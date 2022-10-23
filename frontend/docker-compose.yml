@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+  flaskapp:
+    build: ./
+    container_name: flaskapp
+    env_file:
+      - .env
+    restart: always
+    ports:
+      - "80:80"

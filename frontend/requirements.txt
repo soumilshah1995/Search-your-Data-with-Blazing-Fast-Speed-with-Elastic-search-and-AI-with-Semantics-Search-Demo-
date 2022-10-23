@@ -1,0 +1,7 @@
+sentence-transformers
+transformers
+Flask
+elasticsearch
+boto3
+numpy
+ python-dotenv
