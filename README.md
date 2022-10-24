@@ -21,5 +21,19 @@ Search your Data with Blazing Fast Speed with Elastic search and AI with Semanti
 * This is a sentence-transformers model: It maps sentences & paragraphs to a 384 dimensional dense vector space and was designed for semantic search. It has been trained on 215M (question, answer) pairs from diverse sources. For an introduction to semantic search, have a look at: SBERT.net - Semantic Search
 
 
+##### Read More 
+
+* Elastic Search Performance Tuning and Optimization How We Got 80X Faster Searches a Case Study
+* https://www.linkedin.com/pulse/elastic-search-performance-tuning-optimization-how-we-soumil-shah/
+
+* A Journey for Semantics Search with Elastic Search (80M) vectors Search (1.4TB)
+* https://www.linkedin.com/pulse/journey-semantics-search-elastic-80m-vectors-14tb-soumil-shah/
+
+
+
 ## TO DO
 * Add Ranker Module with TextAI Python Library 
+* Add Pagination 
+* facets and Aggreations for Filters 
+
+##### Note that I exclusively work on this project on Saturdays and Sundays and that from Monday to Friday, I have a full-time job. This serves easy and fast quick POC using some pre trained machine learning model
